@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Humberto Sandoval</h1>
 <h3 align="center">A passionate Data Analyst from Mexico</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwiQ2ae7ssmBAxX8Fd4AHWo3AJAQMygCegQIARBc..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&docid=yw3WajrVF6gxGM&w=480&h=360&q=animated%20coding%20gif&ved=2ahUKEwiQ2ae7ssmBAxX8Fd4AHWo3AJAQMygCegQIARBc"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humbertosandoval25&label=Profile%20views&color=0e75b6&style=flat" alt="humbertosandoval25" /> </p>
 
