@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Humberto Sandoval</h1>
 <h3 align="center">A passionate Data Analyst from Mexico</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=568646023&sxsrf=AM9HkKnPTasNaTaHUB6BhmqenaMlm5P5wA:1695769711675&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjky6O6ssmBAxXQgGoFHd4sCgkQ0pQJegQICRAB&biw=1920&bih=969&dpr=1#imgrc=ITaGGdoGDaxxhM"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humbertosandoval25&label=Profile%20views&color=0e75b6&style=flat" alt="humbertosandoval25" /> </p>
 
